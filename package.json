@@ -1,13 +1,22 @@
 {
-  "name": "facebookpdcapi",
+  "name": "facebookpostdatecreationapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorcedrim/FacebookPostDateCreationAPI.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorcedrim/FacebookPostDateCreationAPI/issues"
+  },
+  "homepage": "https://github.com/vitorcedrim/FacebookPostDateCreationAPI#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
